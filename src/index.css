@@ -11,6 +11,10 @@ body {
   background-color: #1e1e1e;
 }
 
+button {
+  background-color: #00b894;
+}
+
 .navbar {
   padding: 20px;
   display: flex;

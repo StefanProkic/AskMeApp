@@ -1,4 +1,4 @@
-//Full React Tutorial #7 - Click Events
+//Full React Tutorial #10 - Outputting Lists
 import Navbar from './Navbar';
 import Home from './Home';
 
