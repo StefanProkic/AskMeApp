@@ -1,4 +1,4 @@
-//Full React Tutorial #10 - Outputting Lists
+//Full React Tutorial #21 - Outputting Lists
 import Navbar from './Navbar';
 import Home from './Home';
 
